@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../p5"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Art101_S25"
+	}
+}
